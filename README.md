@@ -4,7 +4,7 @@ Activate the batch process by scheduling it using the following method:
 
 1. Open the Developer Console.
 2. Navigate to **Execute Anonymous**.
-3. Run the following command:
+3. Run the following command:-
 
     **PartToProductScheduler.scheduleJob();**
 
